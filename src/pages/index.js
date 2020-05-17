@@ -8,7 +8,7 @@ function Index() {
     <Layout>
       <Head title="Home" />
       <h1>Hello.</h1>
-      <h2>I'm Marko, the web developer. Welcome to my Gatsby Website!</h2>
+      <h2>I'm Marko, the web developer. Welcome to my Gatsby Website! Have fun!</h2>
       <p>Need a dev? <Link to="/contact/">Contact me.</Link></p>
     </Layout>
   )
