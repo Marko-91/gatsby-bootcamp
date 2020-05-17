@@ -1,0 +1,29 @@
+.nav-item {
+  color: purple;
+  font-size: 0.9rem;
+  margin-right: 1rem;
+  text-decoration: none;
+  &:hover {
+    color: darken(purple, 20);
+  }
+}
+
+.header {
+  padding: 1rem 0 3rem;
+}
+
+.title {
+  color: #000;
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.nav-list {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+}
+
+.active-nav-item {
+  color: teal;
+}
